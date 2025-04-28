@@ -2,7 +2,7 @@ import React from 'react'
 const services = [
     {
         id:1,
-        title:'web Design',
+        title:'Web Design',
         description:'Creating visually appealing and user-friendly web design'
     },
     {

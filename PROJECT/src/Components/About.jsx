@@ -9,7 +9,7 @@ const About = () => {
             <img src={AboutImage} alt="" className='w-72 h-50 rounded-full object-cover mb-8 md:mb-0' />
             <div className='flex-1'>
                 <p className='text-lg mb-8 font-mono'>
-                    I am a passionate Front-end developer with a focus on building modern and responsive User Interfaces. With a strong foundation on frontend technologies , I strive to create seamless and efficient user experiences.
+                    I am a passionate Full Stack developer with a focus on building modern and responsive User Interfaces. With a strong foundation on frontend technologies , I strive to create seamless and efficient user experiences.
                 </p>
                 <div className='space-y-4'>
                     <div className='flex items-center'>
@@ -34,7 +34,7 @@ const About = () => {
                         </div>
                     </div>
                     <div className='flex items-center'>
-                        <label htmlFor="htmlandcss" className='w-2/12'>Tailwindcss</label>
+                        <label htmlFor="htmlandcss" className='w-2/12'>Tailwind CSS</label>
                         <div className='grow bg-gray-800 rounded-full h-2.5'>
                             <div className='grow bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'> 
                             </div>
@@ -51,7 +51,7 @@ const About = () => {
                 <div className='mt-12 flex text-center gap-10'>
                      <div>
                         <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'> 
-                            1+
+                            0+
                         </h3>
                         <p>
                             Years Experience
