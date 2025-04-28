@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className='fixed z-10 top-0 left-0 w-full bg-black text-white px-8 md:px-16 lg:px-24'>
       <div className='container py-2 flex justify-center md:justify-between items-center'>
         <div className='text-2xl font-bold hidden md:inline'>
-            Mahider
+            Vignan
         </div>
         <div className='space-x-10 font-mono'>
             <a href="#home" className='hover:text-gray-400'>Home</a>
@@ -31,7 +31,7 @@ const Navbar = () => {
       {/* Show email if showEmail state is true */}
       {showEmail && (
         <div className="mt-4 text-lg text-gray-300 text-right w-100 h-50 bg-black px-6 pb-6 rounded-lg hover:shadow-lg transform transition-transform duration-300 hover:scale-105">
-          <p>Mail to: <a href="mailto:mahiderrathod420@gmail.com" className="text-pink-500">mahiderrathod420@gmail.com</a></p>
+          <p>Mail to: <a href="mailto:vignantharunoju@gmail.com" className="text-pink-500">vignantharunoju@gmail.com</a></p>
         </div>
       )}
     </nav>
