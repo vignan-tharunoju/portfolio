@@ -27,8 +27,8 @@ const Hero = () => {
       />
       <h1 className='text-4xl font-bold'>
         I'm {" "}
-        <span className=' text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Mahider</span>
-        , Front-end Developer
+        <span className=' text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Vignan</span>
+        , Full-stack Developer
       </h1>
       <p className='mt-4 text-lg text-gray-300'>
         I specialize in building modern and responsive web applications.
@@ -52,7 +52,7 @@ const Hero = () => {
       {/* Show email if showEmail state is true */}
       {showEmail && (
         <div className="mt-8 text-lg text-gray-300">
-          <p>Mail to: <a href="mailto:mahiderrathod420@gmail.com" className="text-pink-500">mahiderrathod420@gmail.com</a></p>
+          <p>Mail to: <a href="mailto:vignantharunoju@gmail.com" className="text-pink-500">vignantharunoju@gmail.com</a></p>
         </div>
       )}
 
